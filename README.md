@@ -1,4 +1,4 @@
-![Banner](https://github.com/f-corvaro/f-corvaro/blob/main/Banner.png))](https://github.com/f-corvaro)
+![Banner](https://github.com/f-corvaro/f-corvaro/blob/main/Banner.png))]
 
 <h1 align="center">Hi, I'm @f-corvaro (Filippo Corvaro)</h1>
 
