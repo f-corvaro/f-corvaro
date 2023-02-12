@@ -1,6 +1,6 @@
 ![Banner](https://github.com/f-corvaro/f-corvaro/blob/main/Banner.png)
 
-<h1 align="center">Hi, I'm @f-corvaro (Filippo Corvaro)</h1>
+<h1 align="center">Hi, I'm @f-corvaro </h1>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76113b436609d62942c29651694ad708c581098838a8&rid=giphy.gif&ct=g">
 
