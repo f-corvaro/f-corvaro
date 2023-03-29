@@ -8,7 +8,7 @@
 
 - ⌨️ I’m currently learning : **C, C++, Unix, Virtual machines**
 
-- 📫 Reach me -> [fil.corvaro@gmail.com](fil.corvaro@gmail.com)
+- 📫 Reach me -> [fcorvaro@student.42roma.it](fcorvaro@student.42roma.it)
 
 - 🔧I'm currently studying at **University of study "Roma Tre" - Mechanical engineering**
 
