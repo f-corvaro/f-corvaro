@@ -26,6 +26,9 @@
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+### Repositories
+[**42 Common Core**](https://github.com/f-corvaro/42.common_core) --> enjoy my journey at "42 Roma Luiss"
+
 <h3 align="left">My stats:</h3>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clftrr31n000608jvhnng5zld/stats?cursusId=21&coalitionId=125" alt="fcorvaro's 42 stats" /></a></p>
 
@@ -33,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f-corvaro&show_icons=true&theme=dark&title_color=e506bc&text_color=ffffff&locale=en" alt="f-corvaro" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f-corvaro&theme=dark" alt="f-corvaro" /></p>
+
