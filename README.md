@@ -30,7 +30,7 @@
 | 👉 [**42 Common Core**](https://github.com/f-corvaro/42.common_core) 👈|
 | ------------------------------------------------------------------- |
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clftrr31n000608jvhnng5zld/stats?cursusId=21&coalitionId=125" alt="fcorvaro's 42 stats" /></a></p>
+<img src="https://badge42.vercel.app/api/v2/clftrr31n000608jvhnng5zld/stats?cursusId=21&coalitionId=125" alt="fcorvaro's 42 stats" /></a></p>
 
 <h3 align="left">My stats:</h3>
 
