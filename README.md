@@ -6,27 +6,31 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f-corvaro&label=Profile%20views&color=e506bc&style=flat" alt="f-corvaro" /> </p>
 
-- ⌨️ I’m currently learning : **C, C++, Unix, Virtual machines**
-
-- 📫 Reach me -> [fcorvaro@student.42roma.it](mailto:fcorvaro@student.42roma.it)
-
 - 🔧I'm currently studying at **University of study "Roma Tre" - Mechanical engineering**
 
 - 🖥 I’m currently student **at 42Roma Luiss**
+ 
+- 📫 Reach me:
 
+     Email: [fcorvaro@student.42roma.it](mailto:fcorvaro@student.42roma.it)
+    
+     Telegram: [fcorvaro](https://t.me/fcorvaro)
+              
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
   
-![linkedin](https://skillicons.dev/icons?i=linkedin,figma&theme=dark)](https://linkedin.com/in/f-corvaro)
-
-<a href="https://linkedin.com/in/f-corvaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="f-corvaro" height="30" width="40" /></a>
+  [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/f-corvaro/en?trk=public_profile_locale-url)
 
 </p>
 
 <h3 align="left">Tech Stack:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=autocad,bash,c,cpp,git,github,linux,py,raspberrypi,vim,vscode,figma&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=autocad,bash,c,cpp,git,github,linux,py,raspberrypi,vim,vscode" />
+  </a>
+</p>
 
 ### My Journey at "42 Roma Luiss"
 | 👉 [**42 Common Core**](https://github.com/f-corvaro/42.common_core) 👈|
