@@ -28,9 +28,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=autocad,bash,c,cpp,git,github,linux,py,raspberrypi,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,git,github,linux,py,raspberrypi,stackoverflow,vim,vscode" />
   </a>
 </p>
+
+<br>
+
+>  Languages - C | C++ | Bash | Python
+
+>  Tools - Git | GitHub | Stack Overflow
+
+>  IDEs - Vim | Visual Studio Code
+
+<br>
 
 ### My Journey at "42 Roma Luiss"
 |  [**42 Common Core**](https://github.com/f-corvaro/42.common_core) |
