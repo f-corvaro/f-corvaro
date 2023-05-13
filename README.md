@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f-corvaro&label=Profile%20views&color=e506bc&style=flat" alt="f-corvaro" /> </p>
 
-- 🔧I'm currently studying at **University of study "Roma Tre" - Mechanical engineering**
+- 🔧 I'm currently studying at **University of study "Roma Tre" - Mechanical engineering**
 
 - 🖥 I’m currently student **at 42Roma Luiss**
  
@@ -33,15 +33,17 @@
 </p>
 
 ### My Journey at "42 Roma Luiss"
-| 👉 [**42 Common Core**](https://github.com/f-corvaro/42.common_core) 👈|
+|  [**42 Common Core**](https://github.com/f-corvaro/42.common_core) |
 | ------------------------------------------------------------------- |
 
-<img src="https://badge42.vercel.app/api/v2/clftrr31n000608jvhnng5zld/stats?cursusId=21&coalitionId=125" alt="fcorvaro's 42 stats" /></a></p>
+[![fcorvaro's 42 stats](https://badge42.vercel.app/api/v2/clftrr31n000608jvhnng5zld/stats?cursusId=21&coalitionId=125)](https://profile.intra.42.fr/users/fcorvaro)
+
 
 <h3 align="left">My stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=f-corvaro&show_icons=true&theme=dark&title_color=e506bc&text_color=ffffff&locale=en&layout=compact" alt="f-corvaro" /></p>
+ 
+[![github stats](https://github-readme-stats.vercel.app/api/top-langs?username=f-corvaro&show_icons=true&theme=dark&title_color=e506bc&text_color=ffffff&locale=en&layout=compact)](https://github.com/f-corvaro?tab=repositories)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f-corvaro&show_icons=true&theme=dark&title_color=e506bc&text_color=ffffff&locale=en" alt="f-corvaro" /></p>
+[![github stats](https://github-readme-stats.vercel.app/api?username=f-corvaro&show_icons=true&theme=dark&title_color=e506bc&text_color=ffffff&locale=en)](https://github.com/f-corvaro?tab=repositories)
 
 
