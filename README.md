@@ -31,11 +31,11 @@
 
 <br>
 
->  Languages - C | C++ | Bash | Python
+>  Languages - C | C++ | Bash | Python  
 
->  Tools - Git | GitHub | Stack Overflow
+>  Tools - Git | GitHub | Stack Overflow  
 
->  IDEs - Vim | Visual Studio Code
+>  IDEs - Vim | Visual Studio Code  
 
 <br>
 
