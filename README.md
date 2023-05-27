@@ -16,7 +16,7 @@
     
 	Telegram: [fcorvaro](https://t.me/fcorvaro)
 	
-	Slack: [@fcorvaro]
+	Slack: [@fcorvaro](https://42born2code.slack.com/team/U050L8XAFLK)
               
 <h3 align="left">Connect with me:</h3>
 
