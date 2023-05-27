@@ -25,13 +25,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,git,github,linux,py,raspberrypi,stackoverflow,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,git,github,linux,md,py,raspberrypi,stackoverflow,vim,vscode" />
   </a>
 </p>
 
 <br>
 
->  Languages - C | C++ | Bash | Python  
+>  Languages - C | C++ | Bash | Markdown | Python  
 
 >  Tools - Git | GitHub | Stack Overflow  
 
