@@ -41,7 +41,7 @@
 
 <br>
 
-### My Journey at "42 Roma Luiss"
+### My Journey at "42 Roma Luiss":
 |  [**42 Common Core**](https://github.com/f-corvaro/42.common_core) |
 | ------------------------------------------------------------------- |
 
