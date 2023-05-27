@@ -12,9 +12,11 @@
  
 - 📫 Reach me:
 
-     Email: [fcorvaro@student.42roma.it](mailto:fcorvaro@student.42roma.it)
+	Email: [fcorvaro@student.42roma.it](mailto:fcorvaro@student.42roma.it)
     
-     Telegram: [fcorvaro](https://t.me/fcorvaro)
+	Telegram: [fcorvaro](https://t.me/fcorvaro)
+	
+	Slack: [@fcorvaro]
               
 <h3 align="left">Connect with me:</h3>
 
