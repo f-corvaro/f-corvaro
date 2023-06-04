@@ -18,10 +18,12 @@
 	
 	Slack: [@fcorvaro](https://42born2code.slack.com/team/U050L8XAFLK)
               
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on Linkedin:</h3>
 
   [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/f-corvaro/en?trk=public_profile_locale-url)
  
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="f-corvaro" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/f-corvaro/en?trk=profile-badge">Filippo Corvaro</a></div>
+              
 
 <h3 align="left">Tech Stack:</h3>
 
