@@ -41,9 +41,7 @@
 
 <br>
 
-### My Journey at "42 Roma Luiss":
-|  [**42 Common Core**](https://github.com/f-corvaro/42.common_core) |
-| ------------------------------------------------------------------- |
+<a href="https://github.com/f-corvaro/42.common_core/tree/main"><img width="350" src="https://github.com/f-corvaro/42.common_core/blob/main/.extra/42cc_gh.png"></a>
 
 <h3 align="left"><details>
 <summary>Click to show my stats</summary>
