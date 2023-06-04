@@ -45,12 +45,12 @@
 |  [**42 Common Core**](https://github.com/f-corvaro/42.common_core) |
 | ------------------------------------------------------------------- |
 
-<details>
-<summary>CLICK TO SHOW MY STATS</summary>
+<h3 align="left"><details>
+<summary>Click to show my stats</summary>
 	
 [![fcorvaro's 42 stats](https://badge42.vercel.app/api/v2/clftrr31n000608jvhnng5zld/stats?cursusId=21&coalitionId=125)](https://profile.intra.42.fr/users/fcorvaro)
 
 [![github stats](https://github-readme-stats.vercel.app/api/top-langs?username=f-corvaro&show_icons=true&theme=dark&title_color=e506bc&text_color=ffffff&locale=en&layout=compact)](https://github.com/f-corvaro?tab=repositories)
 	
 [![github stats](https://github-readme-stats.vercel.app/api?username=f-corvaro&show_icons=true&theme=dark&title_color=e506bc&text_color=ffffff&locale=en)](https://github.com/f-corvaro?tab=repositories)
-</details>
+</details></h3>
