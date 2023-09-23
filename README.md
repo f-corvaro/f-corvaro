@@ -13,17 +13,15 @@
 - 📫 Reach me:
 
 	Email: [fcorvaro@student.42roma.it](mailto:fcorvaro@student.42roma.it)
+
+  	Linkedin: [Filippo Corvaro](https://www.linkedin.com/in/f-corvaro/)
     
 	Telegram: [fcorvaro](https://t.me/fcorvaro)
 	
 	Slack: [@fcorvaro](https://42born2code.slack.com/team/U050L8XAFLK)
-              
-<h3 align="left">Connect with me on Linkedin:</h3>
- 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="f-corvaro" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/f-corvaro/en?trk=profile-badge">Filippo Corvaro</a></div>
-              
 
-<h3 align="left">Tech Stack:</h3>
+
+<h3 align="left"> Tech Stack:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
