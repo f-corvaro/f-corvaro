@@ -6,11 +6,11 @@
 
 <a href="https://github.com/f-corvaro"><img src="https://komarev.com/ghpvc/?username=f-corvaro&label=Profile%20views&color=e506bc&style=flat" alt="f-corvaro" /> </p>
 
-- 🔧 I'm currently studying at **University of study "Roma Tre" - Mechanical engineering**
+- I'm currently studying at **University of study "Roma Tre" - Mechanical engineering**
 
-- 🖥 I’m currently student **at 42Roma Luiss**
+- I’m currently student **at 42Roma Luiss**
  
-- 📫 Reach me:
+- Reach me:
 
 	Email: [fcorvaro@student.42roma.it](mailto:fcorvaro@student.42roma.it)
 
@@ -21,7 +21,7 @@
 	Slack: [@fcorvaro](https://42born2code.slack.com/team/U050L8XAFLK)
 
 
-<h3 align="left"> Tech Stack:</h3>
+	#### Tech Stack:
 
 <p align="center">
   <a href="https://skillicons.dev">
