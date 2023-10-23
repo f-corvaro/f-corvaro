@@ -44,9 +44,9 @@
 
 <br>
 
-<a href="https://github.com/f-corvaro/42.common_core/tree/main"><img width="350" src="https://github.com/f-corvaro/42.common_core/blob/main/.extra/42cc_gh.png"></a>
+<p align="center"><a href="https://github.com/f-corvaro/42.common_core/tree/main"><img width="350" src="https://github.com/f-corvaro/42.common_core/blob/main/.extra/42cc_gh.png"></a>
 
-<h3 align="left"><details>
+<h3 align="center"><details>
 <summary>MY STATS</summary>
 
 [![fcorvaro's 42 stats](https://badge.mediaplus.ma/starryblue/fcorvaro?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/fcorvaro)
