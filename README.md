@@ -21,21 +21,26 @@
 	Slack: [@fcorvaro](https://42born2code.slack.com/team/U050L8XAFLK)
 
 
-	#### Tech Stack:
+	
 
-<p align="center">
+
+
+<br>
+
+***
+<p align="center">	
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,c,cpp,git,github,linux,md,py,raspberrypi,stackoverflow,vim,vscode" />
   </a>
 </p>
 
-<br>
+<p align="center"> <kbd>LANGUAGES:</kbd> C | C++ | Bash | Markdown | Python
 
->  Languages - C | C++ | Bash | Markdown | Python  
+<p align="center"> <kbd>TOOLS:</kbd> Git | GitHub | Stack Overflow
 
->  Tools - Git | GitHub | Stack Overflow  
+<p align="center"> <kbd>IDEs:</kbd> Vim | Visual Studio Code
 
->  IDEs - Vim | Visual Studio Code  
+<hr/>
 
 <br>
 
