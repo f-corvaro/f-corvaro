@@ -8,7 +8,7 @@
 
 - I'm currently studying at **University of study "Roma Tre" - Mechanical engineering**
 
-- I’m currently student **at 42Roma Luiss**
+- I’m currently a student **at 42Roma Luiss**
  
 - **Get in Touch:**
 
