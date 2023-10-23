@@ -10,7 +10,7 @@
 
 - I’m currently student **at 42Roma Luiss**
  
-- Reach me:
+- **Get in Touch:**
 
 	Email: [fcorvaro@student.42roma.it](mailto:fcorvaro@student.42roma.it)
 
