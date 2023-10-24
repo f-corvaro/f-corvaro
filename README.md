@@ -1,4 +1,4 @@
-[![Banner](https://github.com/f-corvaro/f-corvaro/blob/main/Banner.png)](https://github.com/f-corvaro)
+[![Banner](https://github.com/f-corvaro/f-corvaro/blob/main/Banner%20Github.gif)](https://github.com/f-corvaro)
 
 ***
 <h4 align="center">
