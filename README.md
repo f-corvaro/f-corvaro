@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/f-corvaro"> <img src="https://github.com/f-corvaro/f-corvaro/blob/main/Banner%20Github.gif"></a>
+<p align="center"><a href="https://github.com/f-corvaro"> <img src="https://github.com/f-corvaro/f-corvaro/blob/main/Banner%20Github.gif" alt=""></a>
 	
 
 
