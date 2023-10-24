@@ -1,5 +1,6 @@
 [![Banner](https://github.com/f-corvaro/f-corvaro/blob/main/Banner.png)](https://github.com/f-corvaro)
 
+***
 <h4 align="center">
 
 Email: [fcorvaro@student.42roma.it](mailto:fcorvaro@student.42roma.it)
