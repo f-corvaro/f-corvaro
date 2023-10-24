@@ -26,7 +26,7 @@ Slack: [@fcorvaro](https://42born2code.slack.com/team/U050L8XAFLK)
 
 <hr/>
 
-<p align="center"><a href="https://github.com/f-corvaro/42.common_core/tree/main"><img width="350" src="https://github.com/f-corvaro/42.common_core/blob/main/.extra/42cc_gh.png"></a>
+<p align="center"><a href="https://github.com/f-corvaro/42.common_core/tree/main"><img width="350" src="https://github.com/f-corvaro/f-corvaro/blob/main/42cc.gif"></a>
 
 <details>
 <summary>MY 42 STATS</summary>
