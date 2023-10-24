@@ -1,4 +1,6 @@
-[![Banner](https://github.com/f-corvaro/f-corvaro/blob/main/Banner%20Github.gif)](https://github.com/f-corvaro)
+<p align="center"><a href="https://github.com/f-corvaro"> <img src="https://github.com/f-corvaro/f-corvaro/blob/main/Banner%20Github.gif"></a>
+	
+
 
 ***
 <h4 align="center">
