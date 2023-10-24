@@ -1,29 +1,16 @@
 [![Banner](https://github.com/f-corvaro/f-corvaro/blob/main/Banner.png)](https://github.com/f-corvaro)
 
-<h1 align="center">Hi, I'm @f-corvaro </h1>
 
-<a href="https://github.com/f-corvaro"><img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76113b436609d62942c29651694ad708c581098838a8&rid=giphy.gif&ct=g">
 
-<a href="https://github.com/f-corvaro"><img src="https://komarev.com/ghpvc/?username=f-corvaro&label=Profile%20views&color=e506bc&style=flat" alt="f-corvaro" /> </p>
+<h4 align="center">
 
-- I'm currently studying at **University of study "Roma Tre" - Mechanical engineering**
+Email: [fcorvaro@student.42roma.it](mailto:fcorvaro@student.42roma.it)
 
-- I’m currently a student **at 42Roma Luiss**
- 
-- **Get in Touch:**
+Linkedin: [Filippo Corvaro](https://www.linkedin.com/in/f-corvaro/)
 
-	Email: [fcorvaro@student.42roma.it](mailto:fcorvaro@student.42roma.it)
-
-  	Linkedin: [Filippo Corvaro](https://www.linkedin.com/in/f-corvaro/)
-    
-	Telegram: [fcorvaro](https://t.me/fcorvaro)
+Telegram: [fcorvaro](https://t.me/fcorvaro)
 	
-	Slack: [@fcorvaro](https://42born2code.slack.com/team/U050L8XAFLK)
-
-
-	
-
-
+Slack: [@fcorvaro](https://42born2code.slack.com/team/U050L8XAFLK)
 
 <br>
 
