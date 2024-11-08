@@ -29,3 +29,17 @@
     <img src="https://badge.mediaplus.ma/black/fcorvaro?1337Badge=off&UM6P=off">
   </a>
 </details>
+
+<details align="center">
+  <summary>MY GitHub STATS</summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=f-corvaro&show_icons=true&theme=graywhite&bg_color=000000&text_color=ffffff&title_color=ff69b4">
+  </a>
+</details>
+
+<details align="center">
+  <summary>MY MOST USED LANGUAGES</summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-corvaro&layout=compact&theme=graywhite&bg_color=000000&text_color=ffffff&title_color=ff69b4">
+  </a>
+</details>
