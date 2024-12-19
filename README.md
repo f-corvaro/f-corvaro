@@ -46,7 +46,7 @@
 
 <details align="center">
   <summary>MY Duolingo STATS</summary>
-  <a href="https://profile.intra.42.fr/users/fcorvaro">
+  <a href="https://github.com/KevzPeter/Duolingo-Stats-Card?tab=readme-ov-file">
     <img src="https://duolingo-stats-card.vercel.app/api?username=fcorvaro&sort=xp&theme=monokai" alt="Duolingo Stats"/>
   </a>
 </details>
