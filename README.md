@@ -11,13 +11,25 @@
 ***
 <p align="center">	
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,git,github,latex, linux,md,py,raspberrypi,stackoverflow,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,md,py" />
   </a>
 </p>
 
-<p align="center"> <kbd>LANGUAGES:</kbd> C | C++ | Bash | Markdown | Python
+<p align="center"> <kbd>LANGUAGES:</kbd> Bash | C | C++ | Markdown | Python
 
-<p align="center"> <kbd>TOOLS:</kbd> Git | GitHub | Stack Overflow | LaTeX
+<p align="center">	
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,git,github,latex,linux,matlab,notion,stackoverflow,windows" />
+  </a>
+</p>
+
+<p align="center"> <kbd>TOOLS:</kbd> Discord | Git | GitHub | LaTeX | Linux | MATLAB | NOTION | Stack Overflow | Windows
+
+<p align="center">	
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vim,vscode" />
+  </a>
+</p>
 
 <p align="center"> <kbd>IDEs:</kbd> Vim | Visual Studio Code
 
