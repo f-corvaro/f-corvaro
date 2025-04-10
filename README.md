@@ -55,10 +55,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-corvaro&layout=compact&theme=graywhite&bg_color=000000&text_color=ffffff&title_color=ff69b4">
   </a>
 </details>
-
-<details align="center">
-  <summary>MY Duolingo STATS</summary>
-  <a href="https://github.com/KevzPeter/Duolingo-Stats-Card?tab=readme-ov-file">
-    <img src="https://duolingo-stats-card.vercel.app/api?username=fcorvaro&sort=xp&theme=monokai" alt="Duolingo Stats"/>
-  </a>
-</details>
