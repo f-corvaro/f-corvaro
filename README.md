@@ -19,11 +19,11 @@
 
 <p align="center">	
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,git,github,latex,linux,matlab,notion,stackoverflow,windows" />
+    <img src="https://skillicons.dev/icons?i=autocad,discord,git,github,latex,linux,matlab,notion,stackoverflow,windows" />
   </a>
 </p>
 
-<p align="center"> <kbd>TOOLS:</kbd> Discord | Git | GitHub | LaTeX | Linux | MATLAB | NOTION | Stack Overflow | Windows
+<p align="center"> <kbd>TOOLS:</kbd> Autocad | Discord | Git | GitHub | LaTeX | Linux | MATLAB | NOTION | Stack Overflow | Windows
 
 <p align="center">	
   <a href="https://skillicons.dev">
